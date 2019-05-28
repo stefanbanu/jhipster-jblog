@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.stefanbanu"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "jblog",
+    "packageName": "com.stefanbanu",
+    "packageFolder": "com/stefanbanu",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGNkMDAxNjdkZmYzNGI5NmViODk1OWJjMmYwMThkM2Q5NThhZjc3N2RkMzM3NGNhYjRlMGIzNWY2ZmQyZDYyMGQwZjUyMDg4ZjRmZjc1NWE2OWEzMTBiNTQ3OTVjZTdiZjE0YmZkZGE3ZDJhY2FmZmU5NDE5ZWYwNjM2YmFjYzc=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
